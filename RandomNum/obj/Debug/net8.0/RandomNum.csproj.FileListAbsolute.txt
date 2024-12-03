@@ -1,0 +1,14 @@
+C:\Users\Th3at\source\repos\Week4Loops\RandomNum\bin\Debug\net8.0\RandomNum.exe
+C:\Users\Th3at\source\repos\Week4Loops\RandomNum\bin\Debug\net8.0\RandomNum.deps.json
+C:\Users\Th3at\source\repos\Week4Loops\RandomNum\bin\Debug\net8.0\RandomNum.runtimeconfig.json
+C:\Users\Th3at\source\repos\Week4Loops\RandomNum\bin\Debug\net8.0\RandomNum.dll
+C:\Users\Th3at\source\repos\Week4Loops\RandomNum\bin\Debug\net8.0\RandomNum.pdb
+C:\Users\Th3at\source\repos\Week4Loops\RandomNum\obj\Debug\net8.0\RandomNum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Th3at\source\repos\Week4Loops\RandomNum\obj\Debug\net8.0\RandomNum.AssemblyInfoInputs.cache
+C:\Users\Th3at\source\repos\Week4Loops\RandomNum\obj\Debug\net8.0\RandomNum.AssemblyInfo.cs
+C:\Users\Th3at\source\repos\Week4Loops\RandomNum\obj\Debug\net8.0\RandomNum.csproj.CoreCompileInputs.cache
+C:\Users\Th3at\source\repos\Week4Loops\RandomNum\obj\Debug\net8.0\RandomNum.dll
+C:\Users\Th3at\source\repos\Week4Loops\RandomNum\obj\Debug\net8.0\refint\RandomNum.dll
+C:\Users\Th3at\source\repos\Week4Loops\RandomNum\obj\Debug\net8.0\RandomNum.pdb
+C:\Users\Th3at\source\repos\Week4Loops\RandomNum\obj\Debug\net8.0\RandomNum.genruntimeconfig.cache
+C:\Users\Th3at\source\repos\Week4Loops\RandomNum\obj\Debug\net8.0\ref\RandomNum.dll
